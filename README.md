@@ -3,5 +3,6 @@
   <a href="https://patacode.github.io/curriculum-vitae/">Website</a> /
   <a href="https://www.linkedin.com/">Linkedin</a>
   <br><br>
-  <img src="/fingers.gif" />
+  <img src="/computer.gif" />
+  <p><a href="https://giphy.com/gifs/xUPGcfEAZhlZXCZrbi">via GIPHY</a></p>
 </p>
