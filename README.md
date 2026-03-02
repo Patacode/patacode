@@ -2,5 +2,5 @@
 <p align="center">
   <a href="#" title="Not yet available">Website</a>
   <br><br>
-  <img src="blinking-computer.gif" />
+  <img src="transparent-blinking-computer.gif" />
 </p>
