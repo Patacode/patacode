@@ -1,11 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="transparent-patapon-welcome-resized.gif" />
+<p align="center">
+  <img src="patapon-welcome-title.gif" />
 </div>
 
-<div
-  style="display: flex; align-items: center; justify-content: center;">
-  <h2 align="center">
-    <a href="#" title="Not yet available">Access website</a>
-  </h2>
-  <img src="transparent-patapon-resized.gif" />
-</div>
+<p align="center">
+  <a href="#" title="Not yet available">
+    🎯 Projects & Achievements 🏆
+  </a>
+</p>
