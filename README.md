@@ -3,5 +3,7 @@
 </div>
 
 <p align="center">
-  🎯 <a href="https://patacode.github.io">Projects & Achievements</a> 🏆
+  🎯 <a target="_blank" href="https://patacode.github.io">
+    Projects & Achievements
+  </a> 🏆
 </p>
